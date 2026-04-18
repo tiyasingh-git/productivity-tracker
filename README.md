@@ -28,9 +28,9 @@ https://activitytrackerschjdsih.streamlit.app
 ## Tech Stack
 
 - Language: Python 3.10+
-- Libraries: streamlit — UI framework, sidebar, tabs, forms, metrics
-             pandas — all data manipulation, groupby, rolling averages, filtering
-             numpy — balance score calculation (np.std)
-             plotly — all charts (bar, pie, line, heatmap, radar)
+- Libraries: streamlit — UI framework, sidebar, tabs, forms, metrics  
+             pandas — all data manipulation, groupby, rolling averages, filtering  
+             numpy — balance score calculation (np.std)  
+             plotly — all charts (bar, pie, line, heatmap, radar)  
 
 ---
