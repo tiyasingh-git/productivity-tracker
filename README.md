@@ -7,7 +7,7 @@ StudyPulse is a data-driven productivity tracker built for students. It goes bey
 ## Live Demo
 
 Try it here:
-
+https://activitytrackerschjdsih.streamlit.app
 
 ---
 
